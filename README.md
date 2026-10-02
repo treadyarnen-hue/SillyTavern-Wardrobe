@@ -4,6 +4,8 @@ A simple SillyTavern extension that tracks what {{user}} is currently wearing an
 
 You type in outfits for six categories (Work, Everyday, Formal, Loungewear, Sports, Bedtime) plus a separate underwear layer, pick which outfit is currently worn, and toggle underwear on or off. The extension keeps the model aware of the current outfit. It never suggests or auto-fills anything; everything is typed in by you.
 
+![The Wardrobe settings panel](images/panel.png)
+
 ## Install (manual)
 1. Download or clone this repository.
 2. Put the folder in your SillyTavern install at `public/scripts/extensions/third-party/`.
