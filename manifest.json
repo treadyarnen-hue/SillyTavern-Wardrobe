@@ -7,7 +7,7 @@
     "css": "style.css",
     "author": "Treaya",
     "version": "0.3.0",
-    "homePage": "",
+    "homePage": "https://github.com/treadyarnen-hue/SillyTavern-Wardrobe",
     "auto_update": false,
-    "source": ""
+    "source": "https://github.com/treadyarnen-hue/SillyTavern-Wardrobe"
 }

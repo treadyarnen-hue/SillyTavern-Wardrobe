@@ -1,5 +1,5 @@
 // Wardrobe extension - entry point
-// Part 1 (skeleton): per-character input UI that saves. Injection/tags come later.
+// Per-character input UI, prompt injection, and hidden-tag outfit changes.
 
 import { eventSource, event_types } from '../../../../script.js';
 import { extension_settings } from '../../../extensions.js';
