@@ -1,0 +1,13 @@
+{
+    "display_name": "Wardrobe",
+    "loading_order": 11,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "Treaya",
+    "version": "0.3.0",
+    "homePage": "",
+    "auto_update": false,
+    "source": ""
+}
